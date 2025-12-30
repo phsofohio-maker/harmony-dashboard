@@ -1,0 +1,321 @@
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:12:08.577Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:12:08.579Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:12:08.581Z] No OAuth tokens found
+[debug] [2025-12-24T21:12:08.582Z] No OAuth tokens found
+[debug] [2025-12-24T21:12:08.582Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:12:08.583Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:12:08.584Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:12:08.584Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:12:08.585Z] No OAuth tokens found
+[debug] [2025-12-24T21:12:08.586Z] No OAuth tokens found
+[debug] [2025-12-24T21:12:08.586Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:12:08.586Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:12:08.589Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo [none]
+[debug] [2025-12-24T21:12:08.645Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo [none]
+[debug] [2025-12-24T21:12:08.975Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo 200
+[debug] [2025-12-24T21:12:08.976Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo {"name":"projects/parrish-harmonyhca/billingInfo","projectId":"parrish-harmonyhca","billingAccountName":"billingAccounts/019F29-AB211E-395F21","billingEnabled":true}
+[debug] [2025-12-24T21:12:08.999Z] No OAuth tokens found
+[debug] [2025-12-24T21:12:09.000Z] No OAuth tokens found
+[debug] [2025-12-24T21:12:09.000Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:12:09.000Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:12:09.020Z] No OAuth tokens found
+[debug] [2025-12-24T21:12:09.020Z] No OAuth tokens found
+[debug] [2025-12-24T21:12:09.021Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:12:09.021Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:12:09.021Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-12-24T21:12:09.021Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/parrish-harmonyhca
+[debug] [2025-12-24T21:12:09.024Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com [none]
+[debug] [2025-12-24T21:12:09.024Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com x-goog-quota-user=projects/parrish-harmonyhca
+[debug] [2025-12-24T21:12:09.097Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo 200
+[debug] [2025-12-24T21:12:09.098Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo {"name":"projects/parrish-harmonyhca/billingInfo","projectId":"parrish-harmonyhca","billingAccountName":"billingAccounts/019F29-AB211E-395F21","billingEnabled":true}
+[debug] [2025-12-24T21:12:09.099Z] No OAuth tokens found
+[debug] [2025-12-24T21:12:09.100Z] No OAuth tokens found
+[debug] [2025-12-24T21:12:09.100Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:12:09.103Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:12:09.121Z] No OAuth tokens found
+[debug] [2025-12-24T21:12:09.121Z] No OAuth tokens found
+[debug] [2025-12-24T21:12:09.121Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:12:09.121Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:12:09.122Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-12-24T21:12:09.122Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/parrish-harmonyhca
+[debug] [2025-12-24T21:12:09.125Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com [none]
+[debug] [2025-12-24T21:12:09.125Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com x-goog-quota-user=projects/parrish-harmonyhca
+[debug] [2025-12-24T21:12:09.242Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com 403
+[debug] [2025-12-24T21:12:09.243Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com [omitted]
+[debug] [2025-12-24T21:12:09.326Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com 403
+[debug] [2025-12-24T21:12:09.326Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com [omitted]
+[debug] [2025-12-24T21:12:09.535Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-12-24T21:12:09.535Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:12:09.549Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:12:09.549Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:12:09.550Z] No OAuth tokens found
+[debug] [2025-12-24T21:12:09.552Z] No OAuth tokens found
+[debug] [2025-12-24T21:12:09.552Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:12:09.553Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:12:09.553Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo [none]
+[debug] [2025-12-24T21:12:09.572Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-12-24T21:12:09.572Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-12-24T21:12:09.640Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo 200
+[debug] [2025-12-24T21:12:09.640Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo {"name":"projects/parrish-harmonyhca/billingInfo","projectId":"parrish-harmonyhca","billingAccountName":"billingAccounts/019F29-AB211E-395F21","billingEnabled":true}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:12:09.650Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:12:09.650Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:12:09.692Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:12:09.693Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:12:09.693Z] No OAuth tokens found
+[debug] [2025-12-24T21:12:09.693Z] No OAuth tokens found
+[debug] [2025-12-24T21:12:09.693Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:12:09.694Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:12:09.694Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo [none]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:12:09.701Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:12:09.702Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:12:09.702Z] No OAuth tokens found
+[debug] [2025-12-24T21:12:09.702Z] No OAuth tokens found
+[debug] [2025-12-24T21:12:09.702Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:12:09.702Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:12:09.702Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo [none]
+[debug] [2025-12-24T21:12:09.762Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo 200
+[debug] [2025-12-24T21:12:09.762Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo {"name":"projects/parrish-harmonyhca/billingInfo","projectId":"parrish-harmonyhca","billingAccountName":"billingAccounts/019F29-AB211E-395F21","billingEnabled":true}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:12:09.765Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:12:09.765Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:12:09.789Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo 200
+[debug] [2025-12-24T21:12:09.790Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo {"name":"projects/parrish-harmonyhca/billingInfo","projectId":"parrish-harmonyhca","billingAccountName":"billingAccounts/019F29-AB211E-395F21","billingEnabled":true}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:12:09.796Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:12:09.797Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:19:10.230Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:19:10.236Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:19:10.244Z] No OAuth tokens found
+[debug] [2025-12-24T21:19:10.248Z] No OAuth tokens found
+[debug] [2025-12-24T21:19:10.248Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:19:10.250Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:19:10.250Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:19:10.253Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:19:10.254Z] No OAuth tokens found
+[debug] [2025-12-24T21:19:10.255Z] No OAuth tokens found
+[debug] [2025-12-24T21:19:10.255Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:19:10.255Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:19:10.260Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo [none]
+[debug] [2025-12-24T21:19:10.469Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo [none]
+[debug] [2025-12-24T21:19:10.712Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo 200
+[debug] [2025-12-24T21:19:10.712Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo {"name":"projects/parrish-harmonyhca/billingInfo","projectId":"parrish-harmonyhca","billingAccountName":"billingAccounts/019F29-AB211E-395F21","billingEnabled":true}
+[debug] [2025-12-24T21:19:10.763Z] No OAuth tokens found
+[debug] [2025-12-24T21:19:10.765Z] No OAuth tokens found
+[debug] [2025-12-24T21:19:10.765Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:19:10.766Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:19:10.862Z] No OAuth tokens found
+[debug] [2025-12-24T21:19:10.863Z] No OAuth tokens found
+[debug] [2025-12-24T21:19:10.863Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:19:10.863Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:19:10.870Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-12-24T21:19:10.870Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/parrish-harmonyhca
+[debug] [2025-12-24T21:19:10.880Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com [none]
+[debug] [2025-12-24T21:19:10.881Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com x-goog-quota-user=projects/parrish-harmonyhca
+[debug] [2025-12-24T21:19:11.132Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo 200
+[debug] [2025-12-24T21:19:11.132Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo {"name":"projects/parrish-harmonyhca/billingInfo","projectId":"parrish-harmonyhca","billingAccountName":"billingAccounts/019F29-AB211E-395F21","billingEnabled":true}
+[debug] [2025-12-24T21:19:11.135Z] No OAuth tokens found
+[debug] [2025-12-24T21:19:11.136Z] No OAuth tokens found
+[debug] [2025-12-24T21:19:11.136Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:19:11.136Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:19:11.165Z] No OAuth tokens found
+[debug] [2025-12-24T21:19:11.166Z] No OAuth tokens found
+[debug] [2025-12-24T21:19:11.166Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:19:11.168Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:19:11.168Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-12-24T21:19:11.168Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/parrish-harmonyhca
+[debug] [2025-12-24T21:19:11.176Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com [none]
+[debug] [2025-12-24T21:19:11.177Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com x-goog-quota-user=projects/parrish-harmonyhca
+[debug] [2025-12-24T21:19:11.283Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com 403
+[debug] [2025-12-24T21:19:11.283Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com [omitted]
+[debug] [2025-12-24T21:19:11.381Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-12-24T21:19:11.381Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:19:11.423Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:19:11.423Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:19:11.423Z] No OAuth tokens found
+[debug] [2025-12-24T21:19:11.424Z] No OAuth tokens found
+[debug] [2025-12-24T21:19:11.434Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:19:11.435Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:19:11.435Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo [none]
+[debug] [2025-12-24T21:19:11.472Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com 403
+[debug] [2025-12-24T21:19:11.472Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com [omitted]
+[debug] [2025-12-24T21:19:11.545Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-12-24T21:19:11.550Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-12-24T21:19:11.550Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo 200
+[debug] [2025-12-24T21:19:11.551Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo {"name":"projects/parrish-harmonyhca/billingInfo","projectId":"parrish-harmonyhca","billingAccountName":"billingAccounts/019F29-AB211E-395F21","billingEnabled":true}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:19:11.562Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:19:11.564Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:19:11.645Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:19:11.646Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:19:11.650Z] No OAuth tokens found
+[debug] [2025-12-24T21:19:11.650Z] No OAuth tokens found
+[debug] [2025-12-24T21:19:11.651Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:19:11.651Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:19:11.651Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo [none]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:19:11.667Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:19:11.667Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:19:11.668Z] No OAuth tokens found
+[debug] [2025-12-24T21:19:11.672Z] No OAuth tokens found
+[debug] [2025-12-24T21:19:11.672Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:19:11.672Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:19:11.673Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo [none]
+[debug] [2025-12-24T21:19:11.876Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo 200
+[debug] [2025-12-24T21:19:11.877Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo {"name":"projects/parrish-harmonyhca/billingInfo","projectId":"parrish-harmonyhca","billingAccountName":"billingAccounts/019F29-AB211E-395F21","billingEnabled":true}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:19:11.898Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:19:11.898Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:19:11.914Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo 200
+[debug] [2025-12-24T21:19:11.914Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo {"name":"projects/parrish-harmonyhca/billingInfo","projectId":"parrish-harmonyhca","billingAccountName":"billingAccounts/019F29-AB211E-395F21","billingEnabled":true}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:19:11.932Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:19:11.932Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:22:55.597Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:22:55.598Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:22:55.601Z] No OAuth tokens found
+[debug] [2025-12-24T21:22:55.602Z] No OAuth tokens found
+[debug] [2025-12-24T21:22:55.602Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:22:55.603Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:22:55.604Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:22:55.604Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:22:55.604Z] No OAuth tokens found
+[debug] [2025-12-24T21:22:55.605Z] No OAuth tokens found
+[debug] [2025-12-24T21:22:55.605Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:22:55.605Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:22:55.607Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo [none]
+[debug] [2025-12-24T21:22:55.663Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo [none]
+[debug] [2025-12-24T21:22:55.795Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo 200
+[debug] [2025-12-24T21:22:55.796Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo {"name":"projects/parrish-harmonyhca/billingInfo","projectId":"parrish-harmonyhca","billingAccountName":"billingAccounts/019F29-AB211E-395F21","billingEnabled":true}
+[debug] [2025-12-24T21:22:55.818Z] No OAuth tokens found
+[debug] [2025-12-24T21:22:55.818Z] No OAuth tokens found
+[debug] [2025-12-24T21:22:55.819Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:22:55.819Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:22:55.844Z] No OAuth tokens found
+[debug] [2025-12-24T21:22:55.844Z] No OAuth tokens found
+[debug] [2025-12-24T21:22:55.844Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:22:55.845Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:22:55.845Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-12-24T21:22:55.845Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/parrish-harmonyhca
+[debug] [2025-12-24T21:22:55.848Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com [none]
+[debug] [2025-12-24T21:22:55.848Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com x-goog-quota-user=projects/parrish-harmonyhca
+[debug] [2025-12-24T21:22:55.930Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo 200
+[debug] [2025-12-24T21:22:55.931Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo {"name":"projects/parrish-harmonyhca/billingInfo","projectId":"parrish-harmonyhca","billingAccountName":"billingAccounts/019F29-AB211E-395F21","billingEnabled":true}
+[debug] [2025-12-24T21:22:55.942Z] No OAuth tokens found
+[debug] [2025-12-24T21:22:55.942Z] No OAuth tokens found
+[debug] [2025-12-24T21:22:55.948Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:22:55.949Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:22:55.964Z] No OAuth tokens found
+[debug] [2025-12-24T21:22:55.965Z] No OAuth tokens found
+[debug] [2025-12-24T21:22:55.965Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:22:55.965Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:22:55.965Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-12-24T21:22:55.965Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/parrish-harmonyhca
+[debug] [2025-12-24T21:22:55.968Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com [none]
+[debug] [2025-12-24T21:22:55.969Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com x-goog-quota-user=projects/parrish-harmonyhca
+[debug] [2025-12-24T21:22:56.129Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com 403
+[debug] [2025-12-24T21:22:56.129Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com [omitted]
+[debug] [2025-12-24T21:22:56.170Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com 403
+[debug] [2025-12-24T21:22:56.170Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebaseio.com [omitted]
+[debug] [2025-12-24T21:22:56.195Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-12-24T21:22:56.196Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:22:56.212Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:22:56.213Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:22:56.213Z] No OAuth tokens found
+[debug] [2025-12-24T21:22:56.216Z] No OAuth tokens found
+[debug] [2025-12-24T21:22:56.216Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:22:56.217Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:22:56.217Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo [none]
+[debug] [2025-12-24T21:22:56.275Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com 200
+[debug] [2025-12-24T21:22:56.275Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/parrish-harmonyhca/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-12-24T21:22:56.610Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo 200
+[debug] [2025-12-24T21:22:56.611Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo {"name":"projects/parrish-harmonyhca/billingInfo","projectId":"parrish-harmonyhca","billingAccountName":"billingAccounts/019F29-AB211E-395F21","billingEnabled":true}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:22:56.621Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:22:56.621Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:22:56.665Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:22:56.665Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:22:56.665Z] No OAuth tokens found
+[debug] [2025-12-24T21:22:56.665Z] No OAuth tokens found
+[debug] [2025-12-24T21:22:56.666Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:22:56.666Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:22:56.668Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo [none]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:22:56.675Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:22:56.675Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:22:56.675Z] No OAuth tokens found
+[debug] [2025-12-24T21:22:56.676Z] No OAuth tokens found
+[debug] [2025-12-24T21:22:56.676Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:22:56.676Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:22:56.676Z] >>> [apiv2][query] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo [none]
+[debug] [2025-12-24T21:22:56.783Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo 200
+[debug] [2025-12-24T21:22:56.783Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo {"name":"projects/parrish-harmonyhca/billingInfo","projectId":"parrish-harmonyhca","billingAccountName":"billingAccounts/019F29-AB211E-395F21","billingEnabled":true}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:22:56.793Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:22:56.793Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[debug] [2025-12-24T21:22:56.814Z] <<< [apiv2][status] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo 200
+[debug] [2025-12-24T21:22:56.814Z] <<< [apiv2][body] GET https://cloudbilling.googleapis.com/v1/projects/parrish-harmonyhca/billingInfo {"name":"projects/parrish-harmonyhca/billingInfo","projectId":"parrish-harmonyhca","billingAccountName":"billingAccounts/019F29-AB211E-395F21","billingEnabled":true}
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-24T21:22:56.816Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-24T21:22:56.816Z] > authorizing via signed-in user (phsofohio@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-29T16:58:42.414Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-29T16:58:42.417Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-29T16:59:41.822Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-29T16:59:41.829Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-29T17:00:44.651Z] No OAuth tokens found
+[debug] [2025-12-29T17:00:44.652Z] No OAuth tokens found
+[debug] [2025-12-29T17:00:44.653Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-29T17:00:44.653Z] No OAuth tokens found
+[debug] [2025-12-29T17:00:44.654Z] No OAuth tokens found
+[debug] [2025-12-29T17:00:44.654Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-29T17:00:44.656Z] No OAuth tokens found
+[debug] [2025-12-29T17:00:44.657Z] No OAuth tokens found
+[debug] [2025-12-29T17:00:44.657Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-29T17:00:44.658Z] No OAuth tokens found
+[debug] [2025-12-29T17:00:44.658Z] No OAuth tokens found
+[debug] [2025-12-29T17:00:44.658Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
